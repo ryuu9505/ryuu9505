@@ -10,6 +10,6 @@ _I share my experiences and thoughts._
 
 </br>
 
-_I organizes my knowledges_
+_I organize my knowledges._
 
 <a href="https://bit.ly/3TiZ0b4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"></a>
