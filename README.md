@@ -1,4 +1,4 @@
-_I'm a SW Engineer who loves building beautiful products._
+_I love building beautiful products._
 
 <a href="#"><img src="https://img.shields.io/badge/JAVA-FF4000?style=flat-square&logo=openjdk&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/HIBERNATE-59666C?style=flat-square&logo=hibernate&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/HADOOP-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"></a> <a href="#"><img src="https://img.shields.io/badge/SPARK-E25A1C?style=flat-square&logo=apachespark&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/KAFKA-231F20?style=flat-square&logo=apachekafka&logoColor=white"></a>
 
