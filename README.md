@@ -6,7 +6,7 @@ _I love building beautiful products._
 
 _I share my experiences and thoughts._
 
-<a href="https://velog.io/@odgh7hk"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"></a> <a href="https://shady-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF814C?style=flat-square&logo=tistory&logoColor=white"></a> <a href="https://www.youtube.com/@1auvo4gfclggu8vn4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> 
+<a href="https://velog.io/@odgh7hk"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"></a> <a href="https://shady-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF814C?style=flat-square&logo=tistory&logoColor=white"></a> <a href="https://www.youtube.com/@1auvo4gfclggu8vn4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/xiyoonl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a> 
 
 </br>
 
