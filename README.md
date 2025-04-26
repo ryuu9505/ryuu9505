@@ -1,10 +1,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Java-FF4000?style=flat-square&logo=openjdk&logoColor=white"></a> 
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a> 
 <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></a> 
@@ -13,8 +14,10 @@
 <a href="#"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Dlib-008000?style=flat-square&logo=dlib&logoColor=white"></a>
@@ -36,3 +39,6 @@
 <a href="#"><img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Testrail-65C179?style=flat-square&logo=testrail&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white"></a>
