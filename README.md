@@ -42,3 +42,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white"></a>
+
+<img src="https://github.com/user-attachments/assets/02f14857-251c-440f-86c9-165c9eda14e8" height="128">
+<img src="https://github.com/user-attachments/assets/5364e0af-9f52-4089-b115-5f70aabd2286" height="128">
