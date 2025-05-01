@@ -43,9 +43,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white"></a>
 
-<a href="https://www.credly.com/badges/76477d73-efad-4c3e-b7e7-56eb8e688798/public_url" target="_blank">
+<a href="https://www.credly.com/badges/76477d73-efad-4c3e-b7e7-56eb8e688798/public_url">
   <img src="https://github.com/user-attachments/assets/02f14857-251c-440f-86c9-165c9eda14e8" height="128">
 </a>
-<a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url" target="_blank">
+<a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url">
   <img src="https://github.com/user-attachments/assets/5364e0af-9f52-4089-b115-5f70aabd2286" height="128">
 </a>
