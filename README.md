@@ -45,3 +45,4 @@
 
 <a href="https://www.credly.com/badges/76477d73-efad-4c3e-b7e7-56eb8e688798/public_url"><img src="https://github.com/user-attachments/assets/02f14857-251c-440f-86c9-165c9eda14e8" height="128"></a>
 <a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url"><img src="https://github.com/user-attachments/assets/5364e0af-9f52-4089-b115-5f70aabd2286" height="128"></a>
+<a href="https://softeer.ai/certificate/verify?ui=28015&di=4978&bd=mK4LbR%2FA%2FhuYypLsmW0rEw%3D%3D"><img src="https://github.com/user-attachments/assets/5d535256-ed11-46c9-b9c4-aa75bdc2c7d7" height="128"></a>
