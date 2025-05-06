@@ -43,7 +43,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white"></a>
 
-<a href="https://softeer.ai/certificate/verify?ui=28015&di=4978&bd=mK4LbR%2FA%2FhuYypLsmW0rEw%3D%3D"><img src="https://github.com/user-attachments/assets/5d535256-ed11-46c9-b9c4-aa75bdc2c7d7" height="150"></a>
-<a href="https://www.credly.com/badges/76477d73-efad-4c3e-b7e7-56eb8e688798/public_url"><img src="https://imgur.com/OJYd4qa.png" height="150"></a>
-<a href="https://www.credly.com/badges/d8c803f7-011d-4b88-8216-744bbcdb67db/public_url"><img src="https://imgur.com/nTwP9VH.png" height="150"></a>
-<a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url"><img src="https://imgur.com/Q0BHBJf.png" height="150"></a>
+<a href="https://softeer.ai/certificate/verify?ui=28015&di=4978&bd=mK4LbR%2FA%2FhuYypLsmW0rEw%3D%3D"><img src="https://github.com/user-attachments/assets/5d535256-ed11-46c9-b9c4-aa75bdc2c7d7" height="128"></a>
+<a href="https://www.credly.com/badges/76477d73-efad-4c3e-b7e7-56eb8e688798/public_url"><img src="https://imgur.com/OJYd4qa.png" height="128"></a>
+<a href="https://www.credly.com/badges/d8c803f7-011d-4b88-8216-744bbcdb67db/public_url"><img src="https://imgur.com/nTwP9VH.png" height="128"></a>
+<a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url"><img src="https://imgur.com/Q0BHBJf.png" height="128"></a>
