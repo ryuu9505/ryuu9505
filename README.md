@@ -47,5 +47,4 @@
 <a href="https://www.credly.com/badges/76477d73-efad-4c3e-b7e7-56eb8e688798/public_url"><img src="https://imgur.com/OJYd4qa.png" height="128"></a>
 <a href="https://www.credly.com/badges/d8c803f7-011d-4b88-8216-744bbcdb67db/public_url"><img src="https://imgur.com/nTwP9VH.png" height="128"></a>
 <a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url"><img src="https://imgur.com/Q0BHBJf.png" height="128"></a>
-
-<img src="https://api.unblind.kr/users/hyeongjun/png-card" alt="unblind" width="200"/>
+<img src="https://api.unblind.kr/users/hyeongjun/png-card" alt="unblind" width="128"/>
