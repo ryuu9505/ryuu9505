@@ -48,4 +48,4 @@
 <a href="https://www.credly.com/badges/d8c803f7-011d-4b88-8216-744bbcdb67db/public_url"><img src="https://imgur.com/nTwP9VH.png" height="128"></a>
 <a href="https://www.credly.com/badges/d857e697-2077-47f5-b021-093c6bb46b07/public_url"><img src="https://imgur.com/Q0BHBJf.png" height="128"></a>
 
-![unblind](https://api.unblind.kr/users/hyeongjun/svg-card)
+<img src="https://api.unblind.kr/users/hyeongjun/png-card" alt="unblind" width="200"/>
